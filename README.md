@@ -49,7 +49,7 @@
   
   # 💤 SoYeoung's GitHub
   ### 🎓Hansei University🎓<br/>
-  IT학부 1학년 재학중 융합보안학과 학회<br/>
+  컴퓨터공학과 2학년br/>
   감자 동아리 활동중 (프론트, 디자이너)
   ### 🎨My disgin🎨<br/>
 
