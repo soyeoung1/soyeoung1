@@ -51,7 +51,7 @@
   ### 🎓Hansei University🎓<br/>
   컴퓨터공학과 2학년 <br/>
   감자 동아리 활동중 (프론트, 디자이너)
-  ### 🎨My design🎨<br/>
+  ### 🎨My Design🎨<br/>
 
 디자이너로 참여한 완료 프로젝트<br/>
 #### 감자 메인 사이트 https://www.gamzatech.site/
